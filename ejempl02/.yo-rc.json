@@ -1,0 +1,29 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "ejemplo02",
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "react",
+    "clientTheme": "cyborg",
+    "clientThemeVariant": "primary",
+    "databaseType": "mongodb",
+    "enableTranslation": false,
+    "entities": [],
+    "jhiPrefix": "project",
+    "jhipsterVersion": "9.1.0",
+    "jwtSecretKey": "NzZiZTc0ZjEwMjg5Yzg0MDNlMTNiNzAxMGI3Y2U4MDliYWVkOTQ4NzU2NTJkODI2NzVjMWQ4NTFhMWYzYjRmYmJkNzAxMTdjYzQ2NGIyZmZiMDhmNmJiNTY3ZmVlMzkyNDhlMTNjZTczNDFjNmZmNGRiYzFiY2VjMDdkZDY4OTc=",
+    "languages": ["es"],
+    "monorepository": true,
+    "nativeLanguage": "es",
+    "packageName": "com.mycompany.ejemplo02",
+    "prodDatabaseType": "mongodb",
+    "reactive": false,
+    "searchEngine": false,
+    "serverPort": "8080",
+    "skipCommitHook": true,
+    "testFrameworks": ["cucumber"],
+    "websocket": false
+  }
+}
